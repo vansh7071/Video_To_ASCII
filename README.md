@@ -14,7 +14,7 @@ Just open index.html to use it
 
 ## Screenshots
 
-![App Screenshot]([https://i.postimg.cc/0j1Ykhvh/Screenshot-from-2022-10-16-19-11-13.png](https://drive.google.com/file/d/1yFjKvNZDWnbTjrFd6DWo4lEADmJD6mFr/view?usp=sharing))
+![Screenshot](https://drive.google.com/file/d/1yFjKvNZDWnbTjrFd6DWo4lEADmJD6mFr/view?usp=sharing)
 
 
 ## Run Locally
